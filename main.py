@@ -1,6 +1,7 @@
 import sys
 
-def main_gui():pass
+def main_gui():
+    import gui
 
 def main_cli(conf=None):
     import cli
